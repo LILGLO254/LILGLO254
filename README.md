@@ -1,16 +1,101 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000033,100:000080&height=200&section=header&text=GLORIAH%20ANYANGO&fontSize=36&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descSize=16" width="100%" />
+</p>
 
-<!--
-**LILGLO254/LILGLO254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building AI-Powered Applications</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+<pre>
+Name: GLORIAH ANYANGO
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Machine Learning
+  - SaaS Platforms
+
+Learning:
+  - AI Agents
+  - LangChain
+  - RAG Systems
+  - LLM Engineering
+
+Open To:
+  - Collaborations
+  - Open Source
+  - AI Research
+  - Internships
+</pre>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,rust,go" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,svelte" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,kubernetes,terraform,vscode,figma" />
+</p>
+
+### AI & Data Science
+Machine Learning • Deep Learning • TensorFlow • PyTorch • Pandas • NumPy • OpenCV • Scikit-Learn • LangChain • Hugging Face • Prompt Engineering • RAG • LSTM
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LILGLO254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Build impactful AI products
+* 🤖 Master LLM Engineering
+* 🌐 Contribute to Open Source
+* ☁️ Learn Cloud & Distributed Systems
+* 💼 Become a Professional AI Engineer
+
+---
+
+## 🔬 Currently Exploring
+
+<pre>
+Artificial Intelligence  ████████████████████
+Machine Learning         ████████████████████
+React                    ██████████████████░░
+Backend Engineering      ██████████████████░░
+Cloud Computing          ██████████████░░░░░░
+</pre>
+
+---
+
+## 💡 Quote
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
