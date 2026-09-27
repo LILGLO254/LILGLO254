@@ -1,3 +1,4 @@
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000033,100:000080&height=200&section=header&text=GLORIAH%20ANYANGO&fontSize=36&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descSize=16" width="100%" />
@@ -99,3 +100,15 @@ Cloud Computing          ██████████████░░░░�
 ## 💡 Quote
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
+>
+> ## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:gloriaanyango847@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gloriaanyango847%40gmail.com-000080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out for collaborations, opportunities, or just a friendly chat about AI and tech!
+</p>
